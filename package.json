@@ -1,0 +1,23 @@
+{
+  "name": "employeeTrackerReact",
+  "version": "1.0.0",
+  "description": "app that allows user to filter and track employees utilizing react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcerrillo1/employeeTrackerReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcerrillo1/employeeTrackerReact/issues"
+  },
+  "homepage": "https://github.com/mcerrillo1/employeeTrackerReact#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
